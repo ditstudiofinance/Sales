@@ -1,0 +1,3171 @@
+{
+  "yearlyData": {
+    "2024": {
+      "sales": 46083037,
+      "received": 41263338,
+      "txs": 195,
+      "monthly": {
+        "2024-01": {
+          "sales": 42577334,
+          "received": 1736600
+        },
+        "2024-02": {
+          "sales": 0,
+          "received": 5199000
+        },
+        "2024-03": {
+          "sales": 865003,
+          "received": 4320003
+        },
+        "2024-04": {
+          "sales": 284925,
+          "received": 1534925
+        },
+        "2024-05": {
+          "sales": 300000,
+          "received": 4622500
+        },
+        "2024-06": {
+          "sales": 200000,
+          "received": 1789235
+        },
+        "2024-07": {
+          "sales": 0,
+          "received": 2155000
+        },
+        "2024-08": {
+          "sales": 101655,
+          "received": 3066655
+        },
+        "2024-09": {
+          "sales": 81120,
+          "received": 5151870
+        },
+        "2024-10": {
+          "sales": 100000,
+          "received": 5652800
+        },
+        "2024-11": {
+          "sales": 50000,
+          "received": 2977750
+        },
+        "2024-12": {
+          "sales": 1523000,
+          "received": 3057000
+        }
+      },
+      "purposes": {
+        "Interior Works": {
+          "sales": 43168668,
+          "received": 37041388
+        },
+        "Design": {
+          "sales": 510000,
+          "received": 990000
+        },
+        "Appliance": {
+          "sales": 1586000,
+          "received": 0
+        },
+        "Tiles": {
+          "sales": -137331,
+          "received": 0
+        },
+        "Addional Works": {
+          "sales": 937700,
+          "received": 3206950
+        },
+        "Visiting Charge": {
+          "sales": 18000,
+          "received": 25000
+        }
+      },
+      "channels": {
+        "Adjustments / Deductions": 270000,
+        "Bank Transfer / RTGS": 6589650,
+        "Cash": 10075910,
+        "Cheque": 24327778
+      },
+      "clientCount": 62
+    },
+    "2025": {
+      "sales": 60142862.5,
+      "received": 58097160,
+      "txs": 327,
+      "monthly": {
+        "2025-01": {
+          "sales": 356334,
+          "received": 3896200
+        },
+        "2025-02": {
+          "sales": 4411200,
+          "received": 3081300
+        },
+        "2025-03": {
+          "sales": 9935605,
+          "received": 10318000
+        },
+        "2025-04": {
+          "sales": 157000,
+          "received": 1374263
+        },
+        "2025-05": {
+          "sales": 3974910,
+          "received": 6490744
+        },
+        "2025-06": {
+          "sales": 1982600,
+          "received": 2413493
+        },
+        "2025-07": {
+          "sales": 1406289,
+          "received": 3843889
+        },
+        "2025-08": {
+          "sales": 7135453,
+          "received": 5016964
+        },
+        "2025-09": {
+          "sales": 1655765,
+          "received": 2517850
+        },
+        "2025-10": {
+          "sales": 19005071.5,
+          "received": 7699700
+        },
+        "2025-11": {
+          "sales": 1261740,
+          "received": 4878857
+        },
+        "2025-12": {
+          "sales": 8860895,
+          "received": 6565900
+        }
+      },
+      "purposes": {
+        "Addional Works": {
+          "sales": 7478120,
+          "received": 1084520
+        },
+        "Design": {
+          "sales": 637760,
+          "received": 1165794
+        },
+        "Visiting Charge": {
+          "sales": 27000,
+          "received": 112000
+        },
+        "Interior Works": {
+          "sales": 39169983.5,
+          "received": 50413043
+        },
+        "Furniture": {
+          "sales": 5066570,
+          "received": 0
+        },
+        "Appliance": {
+          "sales": 5350454,
+          "received": 2123500
+        },
+        "Tiles": {
+          "sales": 2239055,
+          "received": 300000
+        },
+        "Other": {
+          "sales": 70000,
+          "received": 1217000
+        },
+        "Adjust": {
+          "sales": -537610,
+          "received": 85000
+        },
+        "Civil Work": {
+          "sales": 547470,
+          "received": 30000
+        },
+        "Loan Return": {
+          "sales": 0,
+          "received": 59000
+        },
+        "Goods Sell": {
+          "sales": 94060,
+          "received": 1507303
+        }
+      },
+      "channels": {
+        "Cash": 11330680,
+        "Bank Transfer / RTGS": 38946947,
+        "Adjustments / Deductions": 526720,
+        "Cheque": 7225763,
+        "bKash Mobile Banking": 67050
+      },
+      "clientCount": 101
+    },
+    "2026": {
+      "sales": 51817484.3,
+      "received": 45667166.169999994,
+      "txs": 283,
+      "monthly": {
+        "2026-01": {
+          "sales": 6101215,
+          "received": 7155551
+        },
+        "2026-02": {
+          "sales": 6437159,
+          "received": 1944527
+        },
+        "2026-03": {
+          "sales": 7150370,
+          "received": 5695950
+        },
+        "2026-04": {
+          "sales": 1300000,
+          "received": 6156870
+        },
+        "2026-05": {
+          "sales": 3010389.69,
+          "received": 2992937.5
+        },
+        "2026-06": {
+          "sales": 6394748,
+          "received": 5183896
+        },
+        "2026-07": {
+          "sales": 11870670,
+          "received": 5544323
+        },
+        "2026-08": {
+          "sales": 2202214.13,
+          "received": 3468054.19
+        },
+        "2026-09": {
+          "sales": 3676700,
+          "received": 3895000
+        },
+        "2026-10": {
+          "sales": 3674018.48,
+          "received": 3630057.48
+        }
+      },
+      "purposes": {
+        "Visiting Charge": {
+          "sales": 165200,
+          "received": 165300
+        },
+        "Addional Works": {
+          "sales": 3521321.82,
+          "received": 4086120.69
+        },
+        "Adjust": {
+          "sales": 0,
+          "received": 744777
+        },
+        "Interior Works": {
+          "sales": 41110268.48,
+          "received": 39143804.48
+        },
+        "Appliance": {
+          "sales": 3750935,
+          "received": 257015
+        },
+        "Furniture": {
+          "sales": 1138000,
+          "received": 10000
+        },
+        "Civil Work": {
+          "sales": 919940,
+          "received": 0
+        },
+        "Goods Sell": {
+          "sales": 33408,
+          "received": 33408
+        },
+        "Mr. Kitchen": {
+          "sales": 758411,
+          "received": 762741
+        },
+        "Design": {
+          "sales": 420000,
+          "received": 255000
+        },
+        "Other": {
+          "sales": 0,
+          "received": 209000
+        }
+      },
+      "channels": {
+        "Cash": 9259080,
+        "Adjustments / Deductions": 1408316.48,
+        "Cheque": 18912500,
+        "Bank Transfer / RTGS": 12702537,
+        "SSL Commerz (Gateway)": 3331432.69,
+        "bKash Mobile Banking": 53300
+      },
+      "clientCount": 83
+    }
+  },
+  "monthlyData": {
+    "2023-01": {
+      "year": 2023,
+      "month": "2023-01",
+      "sales": 100000,
+      "received": 0
+    },
+    "2023-08": {
+      "year": 2023,
+      "month": "2023-08",
+      "sales": 0,
+      "received": 50000
+    },
+    "2023-10": {
+      "year": 2023,
+      "month": "2023-10",
+      "sales": 0,
+      "received": 50000
+    },
+    "2023-11": {
+      "year": 2023,
+      "month": "2023-11",
+      "sales": 0,
+      "received": 40000
+    },
+    "2023-12": {
+      "year": 2023,
+      "month": "2023-12",
+      "sales": 4200000,
+      "received": 3930000
+    },
+    "2024-01": {
+      "year": 2024,
+      "month": "2024-01",
+      "sales": 42577334,
+      "received": 1736600
+    },
+    "2024-02": {
+      "year": 2024,
+      "month": "2024-02",
+      "sales": 0,
+      "received": 5199000
+    },
+    "2024-03": {
+      "year": 2024,
+      "month": "2024-03",
+      "sales": 865003,
+      "received": 4320003
+    },
+    "2024-04": {
+      "year": 2024,
+      "month": "2024-04",
+      "sales": 284925,
+      "received": 1534925
+    },
+    "2024-05": {
+      "year": 2024,
+      "month": "2024-05",
+      "sales": 300000,
+      "received": 4622500
+    },
+    "2024-06": {
+      "year": 2024,
+      "month": "2024-06",
+      "sales": 200000,
+      "received": 1789235
+    },
+    "2024-07": {
+      "year": 2024,
+      "month": "2024-07",
+      "sales": 0,
+      "received": 2155000
+    },
+    "2024-08": {
+      "year": 2024,
+      "month": "2024-08",
+      "sales": 101655,
+      "received": 3066655
+    },
+    "2024-09": {
+      "year": 2024,
+      "month": "2024-09",
+      "sales": 81120,
+      "received": 5151870
+    },
+    "2024-10": {
+      "year": 2024,
+      "month": "2024-10",
+      "sales": 100000,
+      "received": 5652800
+    },
+    "2024-11": {
+      "year": 2024,
+      "month": "2024-11",
+      "sales": 50000,
+      "received": 2977750
+    },
+    "2024-12": {
+      "year": 2024,
+      "month": "2024-12",
+      "sales": 1523000,
+      "received": 3057000
+    },
+    "2025-01": {
+      "year": 2025,
+      "month": "2025-01",
+      "sales": 356334,
+      "received": 3896200
+    },
+    "2025-02": {
+      "year": 2025,
+      "month": "2025-02",
+      "sales": 4411200,
+      "received": 3081300
+    },
+    "2025-03": {
+      "year": 2025,
+      "month": "2025-03",
+      "sales": 9935605,
+      "received": 10318000
+    },
+    "2025-04": {
+      "year": 2025,
+      "month": "2025-04",
+      "sales": 157000,
+      "received": 1374263
+    },
+    "2025-05": {
+      "year": 2025,
+      "month": "2025-05",
+      "sales": 3974910,
+      "received": 6490744
+    },
+    "2025-06": {
+      "year": 2025,
+      "month": "2025-06",
+      "sales": 1982600,
+      "received": 2413493
+    },
+    "2025-07": {
+      "year": 2025,
+      "month": "2025-07",
+      "sales": 1406289,
+      "received": 3843889
+    },
+    "2025-08": {
+      "year": 2025,
+      "month": "2025-08",
+      "sales": 7135453,
+      "received": 5016964
+    },
+    "2025-09": {
+      "year": 2025,
+      "month": "2025-09",
+      "sales": 1655765,
+      "received": 2517850
+    },
+    "2025-10": {
+      "year": 2025,
+      "month": "2025-10",
+      "sales": 19005071.5,
+      "received": 7699700
+    },
+    "2025-11": {
+      "year": 2025,
+      "month": "2025-11",
+      "sales": 1261740,
+      "received": 4878857
+    },
+    "2025-12": {
+      "year": 2025,
+      "month": "2025-12",
+      "sales": 8860895,
+      "received": 6565900
+    },
+    "2026-01": {
+      "year": 2026,
+      "month": "2026-01",
+      "sales": 6101215,
+      "received": 7155551
+    },
+    "2026-02": {
+      "year": 2026,
+      "month": "2026-02",
+      "sales": 6437159,
+      "received": 1944527
+    },
+    "2026-03": {
+      "year": 2026,
+      "month": "2026-03",
+      "sales": 7150370,
+      "received": 5695950
+    },
+    "2026-04": {
+      "year": 2026,
+      "month": "2026-04",
+      "sales": 1300000,
+      "received": 6156870
+    },
+    "2026-05": {
+      "year": 2026,
+      "month": "2026-05",
+      "sales": 3010389.69,
+      "received": 2992937.5
+    },
+    "2026-06": {
+      "year": 2026,
+      "month": "2026-06",
+      "sales": 6394748,
+      "received": 5183896
+    },
+    "2026-07": {
+      "year": 2026,
+      "month": "2026-07",
+      "sales": 11870670,
+      "received": 5544323
+    },
+    "2026-08": {
+      "year": 2026,
+      "month": "2026-08",
+      "sales": 2202214.13,
+      "received": 3468054.19
+    },
+    "2026-09": {
+      "year": 2026,
+      "month": "2026-09",
+      "sales": 3676700,
+      "received": 3895000
+    },
+    "2026-10": {
+      "year": 2026,
+      "month": "2026-10",
+      "sales": 3674018.48,
+      "received": 3630057.48
+    }
+  },
+  "clientsArray": [
+    {
+      "name": "Beauty Shah",
+      "totalSales": 4890430,
+      "totalReceived": 100000,
+      "due": 4790430,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4890430,
+      "y2026Recv": 100000
+    },
+    {
+      "name": "Liza Akter",
+      "totalSales": 5200000,
+      "totalReceived": 1025000,
+      "due": 4175000,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 25000,
+      "y2026Sales": 5200000,
+      "y2026Recv": 1000000
+    },
+    {
+      "name": "Abu Bokor Siddique (Babu)",
+      "totalSales": 4708150,
+      "totalReceived": 1000000,
+      "due": 3708150,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4708150,
+      "y2026Recv": 1000000
+    },
+    {
+      "name": "Mohammad Abu Hasnat",
+      "totalSales": 3402000,
+      "totalReceived": 502000,
+      "due": 2900000,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 3402000,
+      "y2026Recv": 502000
+    },
+    {
+      "name": "S. M. Selimuzzaman",
+      "totalSales": 3217700,
+      "totalReceived": 490000,
+      "due": 2727700,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 3217700,
+      "y2026Recv": 490000
+    },
+    {
+      "name": "Mrs. Sarmin",
+      "totalSales": 2002000,
+      "totalReceived": 402000,
+      "due": 1600000,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2002000,
+      "y2026Recv": 402000
+    },
+    {
+      "name": "UNO Office",
+      "totalSales": 1430300,
+      "totalReceived": 0,
+      "due": 1430300,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 1430300,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Lutfor Rahman",
+      "totalSales": 1680150,
+      "totalReceived": 338000,
+      "due": 1342150,
+      "status": "Tier 1 Critical (> 1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 1680150,
+      "y2026Recv": 338000
+    },
+    {
+      "name": "MD. Shafiul Alam",
+      "totalSales": 3840000,
+      "totalReceived": 2840000,
+      "due": 1000000,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 40000,
+      "y2025Recv": 40000,
+      "y2026Sales": 3800000,
+      "y2026Recv": 2800000
+    },
+    {
+      "name": "Kamal Ahmed",
+      "totalSales": 995000,
+      "totalReceived": 0,
+      "due": 995000,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 995000,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Prince",
+      "totalSales": 744263,
+      "totalReceived": 0,
+      "due": 744263,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 744263,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Ariful Azim Apu",
+      "totalSales": 705424,
+      "totalReceived": 0,
+      "due": 705424,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 705424,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nurun Nahar",
+      "totalSales": 6630420,
+      "totalReceived": 6003000,
+      "due": 627420,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 6630420,
+      "y2026Recv": 6003000
+    },
+    {
+      "name": "Muslem Uddin",
+      "totalSales": 610356,
+      "totalReceived": 0,
+      "due": 610356,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 610356,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Tarikul Islam Imon",
+      "totalSales": 474033,
+      "totalReceived": 0,
+      "due": 474033,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 474033,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Tejgaon College",
+      "totalSales": 1275003,
+      "totalReceived": 825003,
+      "due": 450000,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 1275003,
+      "y2024Recv": 825003,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Yeasin Sumon",
+      "totalSales": 685000,
+      "totalReceived": 400923,
+      "due": 284077,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 250000,
+      "y2026Sales": 685000,
+      "y2026Recv": 150923
+    },
+    {
+      "name": "Asma Akter Romana",
+      "totalSales": 2434250,
+      "totalReceived": 2152000,
+      "due": 282250,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 32000,
+      "y2025Recv": 52000,
+      "y2026Sales": 2402250,
+      "y2026Recv": 2100000
+    },
+    {
+      "name": "MD. Rabbi Miah",
+      "totalSales": 235500,
+      "totalReceived": 0,
+      "due": 235500,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 235500,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Billah Hossain",
+      "totalSales": 1515000,
+      "totalReceived": 1300000,
+      "due": 215000,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 1515000,
+      "y2024Recv": 1100000,
+      "y2025Sales": 0,
+      "y2025Recv": 200000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Shamvu Das",
+      "totalSales": 3862500,
+      "totalReceived": 3660000,
+      "due": 202500,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 40000,
+      "y2024Recv": 80000,
+      "y2025Sales": 3800000,
+      "y2025Recv": 1460000,
+      "y2026Sales": 22500,
+      "y2026Recv": 2120000
+    },
+    {
+      "name": "Anowar Hossain",
+      "totalSales": 167880,
+      "totalReceived": 0,
+      "due": 167880,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 167880,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Sazzadur Rahman",
+      "totalSales": 3209350,
+      "totalReceived": 3049000,
+      "due": 160350,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 40000,
+      "y2025Recv": 40000,
+      "y2026Sales": 3169350,
+      "y2026Recv": 3009000
+    },
+    {
+      "name": "Hasina Shah",
+      "totalSales": 9239100,
+      "totalReceived": 9134485,
+      "due": 104615,
+      "status": "Tier 2 Significant (100k-1M)",
+      "y2024Sales": 9211200,
+      "y2024Recv": 8656585,
+      "y2025Sales": 27900,
+      "y2025Recv": 427900,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Fuad",
+      "totalSales": 100000,
+      "totalReceived": 0,
+      "due": 100000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 100000,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Muzzafar Ahmed",
+      "totalSales": 85000,
+      "totalReceived": 10000,
+      "due": 75000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 85000,
+      "y2026Recv": 10000
+    },
+    {
+      "name": "Parvez Ahmed Tutul",
+      "totalSales": 407500,
+      "totalReceived": 335000,
+      "due": 72500,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 407500,
+      "y2024Recv": 100000,
+      "y2025Sales": 0,
+      "y2025Recv": 235000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Fahimatun Nahym",
+      "totalSales": 1861460,
+      "totalReceived": 1792580,
+      "due": 68880,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 1861460,
+      "y2025Recv": 1792580,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Javed",
+      "totalSales": 100000,
+      "totalReceived": 50000,
+      "due": 50000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 100000,
+      "y2025Recv": 50000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Mehadi",
+      "totalSales": 200000,
+      "totalReceived": 150000,
+      "due": 50000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 200000,
+      "y2026Recv": 150000
+    },
+    {
+      "name": "Abdur Rahman Poran",
+      "totalSales": 69268,
+      "totalReceived": 20000,
+      "due": 49268,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 69268,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 20000
+    },
+    {
+      "name": "Golam Mostofa",
+      "totalSales": 418850,
+      "totalReceived": 375000,
+      "due": 43850,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 418850,
+      "y2024Recv": 325000,
+      "y2025Sales": 0,
+      "y2025Recv": 50000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Asif Mahmud Khan",
+      "totalSales": 40920,
+      "totalReceived": 0,
+      "due": 40920,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 40920,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nasrin Akter",
+      "totalSales": 1887200,
+      "totalReceived": 1857500,
+      "due": 29700,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 1852500,
+      "y2025Recv": 1400000,
+      "y2026Sales": 34700,
+      "y2026Recv": 457500
+    },
+    {
+      "name": "Md. Bashu Mollah",
+      "totalSales": 21079496,
+      "totalReceived": 21051551,
+      "due": 27945,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 15676980,
+      "y2024Recv": 5247000,
+      "y2025Sales": 4916571,
+      "y2025Recv": 14500000,
+      "y2026Sales": 385945,
+      "y2026Recv": 1254551
+    },
+    {
+      "name": "Abul Khayer",
+      "totalSales": 125000,
+      "totalReceived": 100000,
+      "due": 25000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 125000,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 100000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Jalal Hossain Khan",
+      "totalSales": 913420,
+      "totalReceived": 891420,
+      "due": 22000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 740000,
+      "y2024Recv": 740000,
+      "y2025Sales": 153420,
+      "y2025Recv": 151420,
+      "y2026Sales": 20000,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abdul Matbor",
+      "totalSales": 360000,
+      "totalReceived": 340000,
+      "due": 20000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 10000,
+      "y2024Recv": 10000,
+      "y2025Sales": 350000,
+      "y2025Recv": 330000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nilima Rahim",
+      "totalSales": 120000,
+      "totalReceived": 100000,
+      "due": 20000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 120000,
+      "y2025Recv": 100000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Farzana Akter",
+      "totalSales": 2264000,
+      "totalReceived": 2255000,
+      "due": 9000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 40000,
+      "y2024Recv": 40000,
+      "y2025Sales": 2224000,
+      "y2025Recv": 2215000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Ashrafuzzaman",
+      "totalSales": 5000,
+      "totalReceived": 0,
+      "due": 5000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 5000,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abdul Aziz Manik",
+      "totalSales": 68000,
+      "totalReceived": 64000,
+      "due": 4000,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 68000,
+      "y2025Recv": 4000,
+      "y2026Sales": 0,
+      "y2026Recv": 60000
+    },
+    {
+      "name": "Murshedur Rahman",
+      "totalSales": 7186009,
+      "totalReceived": 7183600,
+      "due": 2409,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 68000,
+      "y2024Recv": 118000,
+      "y2025Sales": 7057509,
+      "y2025Recv": 6115600,
+      "y2026Sales": 60500,
+      "y2026Recv": 950000
+    },
+    {
+      "name": "Fakrul Hasan",
+      "totalSales": 2357977,
+      "totalReceived": 2357000,
+      "due": 977,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 2357977,
+      "y2024Recv": 2357000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Rabeya Khatun",
+      "totalSales": 6929502,
+      "totalReceived": 6929335,
+      "due": 167,
+      "status": "Tier 3 Minor (< 100k)",
+      "y2024Sales": 50000,
+      "y2024Recv": 0,
+      "y2025Sales": 6191800,
+      "y2025Recv": 1155000,
+      "y2026Sales": 687702,
+      "y2026Recv": 5774335
+    },
+    {
+      "name": "Saiful Islam Tanvir",
+      "totalSales": 13254731.300000003,
+      "totalReceived": 13254731.17,
+      "due": 0.13000000268220901,
+      "status": "Settled",
+      "y2024Sales": 50000,
+      "y2024Recv": 50000,
+      "y2025Sales": 10899684,
+      "y2025Recv": 8458837,
+      "y2026Sales": 2305047.3,
+      "y2026Recv": 4745894.170000001
+    },
+    {
+      "name": "Hazi Masud",
+      "totalSales": 1145993,
+      "totalReceived": 1145993,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 1549993,
+      "y2024Recv": 0,
+      "y2025Sales": -404000,
+      "y2025Recv": 1145993,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Mofizur Rahman",
+      "totalSales": 100000,
+      "totalReceived": 100000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 100000,
+      "y2024Recv": 100000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "H. M. Shah Newaz",
+      "totalSales": 2282050,
+      "totalReceived": 2282050,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 2282050,
+      "y2025Recv": 2282050,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Mehedi Parvez",
+      "totalSales": 3461263,
+      "totalReceived": 3461263,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 3139563,
+      "y2024Recv": 2180000,
+      "y2025Sales": 256700,
+      "y2025Recv": 1216263,
+      "y2026Sales": 65000,
+      "y2026Recv": 65000
+    },
+    {
+      "name": "Mrs. Bashu Mollah",
+      "totalSales": 1951000,
+      "totalReceived": 1951000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": -254305,
+      "y2024Recv": 0,
+      "y2025Sales": 2035305,
+      "y2025Recv": 1851000,
+      "y2026Sales": 170000,
+      "y2026Recv": 100000
+    },
+    {
+      "name": "Nurun Nahar Amin",
+      "totalSales": 3380000,
+      "totalReceived": 3380000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 3170000,
+      "y2024Recv": 2220000,
+      "y2025Sales": 210000,
+      "y2025Recv": 1160000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Polash Khanti Saha",
+      "totalSales": 2061500,
+      "totalReceived": 2061500,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 2061500,
+      "y2025Recv": 2061500,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mohammad Marufur Rahaman",
+      "totalSales": 3151870,
+      "totalReceived": 3151870,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 20000,
+      "y2024Recv": 20000,
+      "y2025Sales": 2994870,
+      "y2025Recv": 1700000,
+      "y2026Sales": 137000,
+      "y2026Recv": 1431870
+    },
+    {
+      "name": "Mr Nazmul Mirza",
+      "totalSales": 90000,
+      "totalReceived": 90000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 90000,
+      "y2025Recv": 90000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abdul Momin",
+      "totalSales": 22450,
+      "totalReceived": 22450,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 8050,
+      "y2025Recv": 8050,
+      "y2026Sales": 14400,
+      "y2026Recv": 14400
+    },
+    {
+      "name": "Afif Hossain",
+      "totalSales": 1815350,
+      "totalReceived": 1815350,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 1430350,
+      "y2025Recv": 1315000,
+      "y2026Sales": 385000,
+      "y2026Recv": 500350
+    },
+    {
+      "name": "Mr. Shariful Islam",
+      "totalSales": 5000,
+      "totalReceived": 5000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 5000,
+      "y2025Recv": 5000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mahmudul Hasan Ropon",
+      "totalSales": 86010,
+      "totalReceived": 86010,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 86010,
+      "y2025Recv": 86010,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abdul Baten",
+      "totalSales": 5000,
+      "totalReceived": 5000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 5000,
+      "y2025Recv": 5000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abdul Kader Jilani",
+      "totalSales": 5000,
+      "totalReceived": 5000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 5000,
+      "y2025Recv": 5000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Roksana Islam",
+      "totalSales": 40000,
+      "totalReceived": 40000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 40000,
+      "y2025Recv": 40000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Sony",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Shoma Tahera",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Mosharaf Hossain",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Md. Sorhab Rustom",
+      "totalSales": 29628,
+      "totalReceived": 29628,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 29628,
+      "y2026Recv": 29628
+    },
+    {
+      "name": "MD Eshanul Islam",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Masuma Mobin",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Shajeda Akter",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Mahbub Rahman",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "S. M Selimuzzaman",
+      "totalSales": 10000,
+      "totalReceived": 10000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 10000,
+      "y2026Recv": 10000
+    },
+    {
+      "name": "Mrs. Jarin",
+      "totalSales": 30000,
+      "totalReceived": 30000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 30000,
+      "y2026Recv": 30000
+    },
+    {
+      "name": "Akul Miah",
+      "totalSales": 5000,
+      "totalReceived": 5000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 5000,
+      "y2026Recv": 5000
+    },
+    {
+      "name": "Ziaul Haque",
+      "totalSales": 5000,
+      "totalReceived": 5000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 5000,
+      "y2026Recv": 5000
+    },
+    {
+      "name": "Md. Mridul",
+      "totalSales": 3000,
+      "totalReceived": 3000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 3000,
+      "y2026Recv": 3000
+    },
+    {
+      "name": "Ajijul Hakim",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Imran Uddin",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Sanjida Sultana",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Rejaul Karim",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Salina Akter",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Manik Tuhin",
+      "totalSales": 11000,
+      "totalReceived": 11000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 11000,
+      "y2026Recv": 11000
+    },
+    {
+      "name": "Minhajul Islam",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Kamal Hossain",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Tofael Ahmed",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Rehana Khanam",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Torikul Islam",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Tousif Dewan",
+      "totalSales": 4000,
+      "totalReceived": 4000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4000,
+      "y2026Recv": 4000
+    },
+    {
+      "name": "MD. Shafiqul Islam Khadem",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Sarker Bakul",
+      "totalSales": 4000,
+      "totalReceived": 4000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4000,
+      "y2026Recv": 4000
+    },
+    {
+      "name": "Jasmin Popy",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Bithi",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Abu Rayhan Doyel",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Mr. Biraj",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Ariful Islam Rasel",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Jannatul Naima",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Tanzina",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Sumon",
+      "totalSales": 8200,
+      "totalReceived": 8200,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 8200,
+      "y2026Recv": 8200
+    },
+    {
+      "name": "Kanij",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Zahura Mitu",
+      "totalSales": 8000,
+      "totalReceived": 8000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 8000,
+      "y2026Recv": 8000
+    },
+    {
+      "name": "Diganta Das",
+      "totalSales": 7000,
+      "totalReceived": 7000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 7000,
+      "y2026Recv": 7000
+    },
+    {
+      "name": "Atikur Rahman (Russel)",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Md. Arif",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Omar Kazi",
+      "totalSales": 3000,
+      "totalReceived": 3000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 3000,
+      "y2026Recv": 3000
+    },
+    {
+      "name": "Nayib Momen",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Jolly Mam",
+      "totalSales": 4000,
+      "totalReceived": 4000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4000,
+      "y2026Recv": 4000
+    },
+    {
+      "name": "Tanvir Ahmed Chowdhury",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Md. Rahamat",
+      "totalSales": 4000,
+      "totalReceived": 4000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4000,
+      "y2026Recv": 4000
+    },
+    {
+      "name": "Wajid Alom Pappu",
+      "totalSales": 2000,
+      "totalReceived": 2000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 2000,
+      "y2026Recv": 2000
+    },
+    {
+      "name": "Munshiganj DC Office",
+      "totalSales": 4000,
+      "totalReceived": 4000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 4000,
+      "y2026Recv": 4000
+    },
+    {
+      "name": "Nafsin Syed",
+      "totalSales": 3000,
+      "totalReceived": 3000,
+      "due": 0,
+      "status": "Settled",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 3000,
+      "y2026Recv": 3000
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "totalSales": 13582916.5,
+      "totalReceived": 13582917,
+      "due": -0.5,
+      "status": "Settled",
+      "y2024Sales": 100000,
+      "y2024Recv": 100000,
+      "y2025Sales": 9074915.5,
+      "y2025Recv": 4413243,
+      "y2026Sales": 4408001,
+      "y2026Recv": 9069674
+    },
+    {
+      "name": "Jahir Joy",
+      "totalSales": 8000,
+      "totalReceived": 8100,
+      "due": -100,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 8000,
+      "y2026Recv": 8100
+    },
+    {
+      "name": "Shahinur Islam",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 2000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Murad",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Maria Rozario Dipali",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Alamin",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Era Moni",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Sujon  Roy",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Ruma",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nahid Mirza",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Jannatul Peya",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Ayesha Jahan Sarah",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Dr. Rita",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Abul Hasnat",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Kamrul Hasan",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Safi Munir",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Azahar Khan",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Momin Islam",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Moniruddin",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nurun Nabi",
+      "totalSales": 0,
+      "totalReceived": 2000,
+      "due": -2000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 2000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Dr. Shakila Sultana",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Farha Mayra",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mrs. Lima",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mrs Shampa",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "M.H Adib",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Simon Sarkar",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Iman Ali",
+      "totalSales": 0,
+      "totalReceived": 3000,
+      "due": -3000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 3000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Dr. Abu Sayeed Miah",
+      "totalSales": 0,
+      "totalReceived": 4000,
+      "due": -4000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 4000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Ali Ashraf",
+      "totalSales": 763411,
+      "totalReceived": 767741,
+      "due": -4330,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 763411,
+      "y2026Recv": 767741
+    },
+    {
+      "name": "Sohel Rana",
+      "totalSales": 0,
+      "totalReceived": 5000,
+      "due": -5000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 5000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Emran",
+      "totalSales": 0,
+      "totalReceived": 5000,
+      "due": -5000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 5000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Alauddin Miah",
+      "totalSales": 0,
+      "totalReceived": 5000,
+      "due": -5000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 5000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Dr. Raihan",
+      "totalSales": 0,
+      "totalReceived": 8000,
+      "due": -8000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 8000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Rezaul Karim",
+      "totalSales": 0,
+      "totalReceived": 8000,
+      "due": -8000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 8000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nripen Adhikari",
+      "totalSales": 0,
+      "totalReceived": 9000,
+      "due": -9000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 9000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "ICT",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mrs Sumona",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 10000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Fakrul Islam",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 10000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Jahid Hasan",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 10000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nadira Sultana",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 10000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Habibur Rahman",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 10000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mohammad Yousuf",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 10000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Al-Amin Bhuyan",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 10000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Shahadat Hossain",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 10000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Manik",
+      "totalSales": 0,
+      "totalReceived": 10000,
+      "due": -10000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 10000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Johir Riyad",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mizanur Rahman",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 20000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Shamim Al Mahmud",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 20000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Nahid Monsur",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 20000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Aminul Islam",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 20000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "SMA Sattar",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 20000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Zahir Mahmud",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 20000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Masudur Rahman",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 20000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Shahadat Hossain Khandokar",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 20000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Shahriar",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 20000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abu Bin Adam Babu",
+      "totalSales": 2000,
+      "totalReceived": 22000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 2000,
+      "y2025Recv": 22000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "MD. Monsur Alam Patwari",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 20000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Fahmidul Hasan Fuad",
+      "totalSales": 0,
+      "totalReceived": 20000,
+      "due": -20000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 20000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mrs. Firoza Sultana",
+      "totalSales": 0,
+      "totalReceived": 22000,
+      "due": -22000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 22000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "SHM Shanawaz",
+      "totalSales": 0,
+      "totalReceived": 25000,
+      "due": -25000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 25000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Habibur Rahman, Mohammadpur",
+      "totalSales": 0,
+      "totalReceived": 25000,
+      "due": -25000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 25000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Shapon Miah",
+      "totalSales": 0,
+      "totalReceived": 27000,
+      "due": -27000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 27000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Safrul Islam Mridha",
+      "totalSales": 0,
+      "totalReceived": 29914,
+      "due": -29914,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 29914,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "MD. Masudul Rahman",
+      "totalSales": 0,
+      "totalReceived": 30000,
+      "due": -30000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 30000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Robiul Alam",
+      "totalSales": 0,
+      "totalReceived": 30000,
+      "due": -30000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 30000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Golam Haider Khan",
+      "totalSales": 0,
+      "totalReceived": 30000,
+      "due": -30000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 30000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Nahid",
+      "totalSales": 0,
+      "totalReceived": 32000,
+      "due": -32000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 32000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Dr. Din Mohammad",
+      "totalSales": 0,
+      "totalReceived": 35000,
+      "due": -35000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 35000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Shahidul Islam",
+      "totalSales": 0,
+      "totalReceived": 35000,
+      "due": -35000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 35000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Dolor Sarker",
+      "totalSales": 0,
+      "totalReceived": 35000,
+      "due": -35000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 35000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Ahsan Habib",
+      "totalSales": 43000,
+      "totalReceived": 83000,
+      "due": -40000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 40000,
+      "y2026Sales": 43000,
+      "y2026Recv": 43000
+    },
+    {
+      "name": "Masum Billah",
+      "totalSales": 0,
+      "totalReceived": 50000,
+      "due": -50000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 50000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mr. Talukder",
+      "totalSales": 0,
+      "totalReceived": 50000,
+      "due": -50000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 50000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Imran Wahid",
+      "totalSales": 5000,
+      "totalReceived": 55000,
+      "due": -50000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 50000,
+      "y2026Sales": 5000,
+      "y2026Recv": 5000
+    },
+    {
+      "name": "AKM Moinul Islam",
+      "totalSales": 0,
+      "totalReceived": 50000,
+      "due": -50000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 50000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Arif Ahsan Rusho",
+      "totalSales": 0,
+      "totalReceived": 50000,
+      "due": -50000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 50000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mohammad Elias",
+      "totalSales": 0,
+      "totalReceived": 51500,
+      "due": -51500,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 51500,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Mostafizur Rahman",
+      "totalSales": 5092600,
+      "totalReceived": 5170000,
+      "due": -77400,
+      "status": "Client Advance",
+      "y2024Sales": 768600,
+      "y2024Recv": 3565000,
+      "y2025Sales": 124000,
+      "y2025Recv": 105000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mitali Datta",
+      "totalSales": 0,
+      "totalReceived": 100000,
+      "due": -100000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 100000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Zahir Hossain",
+      "totalSales": 0,
+      "totalReceived": 167000,
+      "due": -167000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 167000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Abdul Khalek",
+      "totalSales": 0,
+      "totalReceived": 200000,
+      "due": -200000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 200000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Najmun Nahar",
+      "totalSales": 0,
+      "totalReceived": 200000,
+      "due": -200000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 200000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Pintu",
+      "totalSales": 0,
+      "totalReceived": 265000,
+      "due": -265000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 225000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Kamal Uddin",
+      "totalSales": 0,
+      "totalReceived": 300000,
+      "due": -300000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 300000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Zakir Hossain",
+      "totalSales": 20000,
+      "totalReceived": 370000,
+      "due": -350000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 200000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 20000,
+      "y2026Recv": 20000
+    },
+    {
+      "name": "Md. Mubarak Hossain",
+      "totalSales": 0,
+      "totalReceived": 532100,
+      "due": -532100,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 532100,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Ashrafuzzaman",
+      "totalSales": 32000,
+      "totalReceived": 970000,
+      "due": -938000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 938000,
+      "y2025Sales": 32000,
+      "y2025Recv": 32000,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Ariful Islam",
+      "totalSales": 0,
+      "totalReceived": 1150000,
+      "due": -1150000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 0,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Uno Office",
+      "totalSales": 0,
+      "totalReceived": 1435300,
+      "due": -1435300,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 1255000,
+      "y2025Sales": 0,
+      "y2025Recv": 180300,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Md. Jahid Pervez",
+      "totalSales": 0,
+      "totalReceived": 2700000,
+      "due": -2700000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 2550000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mst Priya",
+      "totalSales": 0,
+      "totalReceived": 3550000,
+      "due": -3550000,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 2600000,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    },
+    {
+      "name": "Mohammed Elias",
+      "totalSales": 0,
+      "totalReceived": 4275650,
+      "due": -4275650,
+      "status": "Client Advance",
+      "y2024Sales": 0,
+      "y2024Recv": 4275650,
+      "y2025Sales": 0,
+      "y2025Recv": 0,
+      "y2026Sales": 0,
+      "y2026Recv": 0
+    }
+  ]
+}
